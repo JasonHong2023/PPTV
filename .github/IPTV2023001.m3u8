@@ -1,0 +1,99 @@
+#EXTM3U
+#EXTINF:-1 ,#EXTVLCOPT
+https://ythls.armelin.one/channel/UC5nwNW4KdC0SzrhF9BXEYOQ.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:ne
+https://live.streamingfast.net/osmflivech1.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:ne
+https://live.streamingfast.net/osmflivech2.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:netw
+https://ythls.armelin.one/channel/UC8ROUUjHzEQm-ndb69CX8Ww.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:netwo
+http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:network
+https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:network
+https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:network
+https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:network
+https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:network
+https://ythls.armelin.one/channel/UC4LjkybVKXCDlneVXlKAbmw.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:network-
+https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:network-
+https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:network-
+https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:network-
+https://node1.olelive.com:6443/live/CCTV8HD/hls.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:network-
+https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:network-cachin
+https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:network-cachin
+http://live.cztv.cc:85/live/ggpd.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:network-cachin
+http://live.cztv.cc:85/live/xwpd.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:network-cachin
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:network-cachin
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV18.m3u8
+#EXTINF:-1 group-title="未分类",8TV (1080p) [Geo-blocked]
+https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/live.isml/.m3u8
+#EXTINF:-1 group-title="未分类",ABN China (720p)
+https://mediaserver.abnvideos.com/streams/abnchina.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCWORLDNEWSASIA.png",BBC News Asia Pacific (72
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15
+#EXTINF:-1 group-title="未分类",Beautiful Life TV
+https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BloombergTV.png",Bloomberg TV Asia (720p)
+https://bloomberg.com/media-manifest/streams/asia.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BloombergTV.png",Bloomberg TV Asia Live Ev
+https://bloomberg.com/media-manifest/streams/asia-event.m3u8
+#EXTINF:-1 group-title="未分类",CCTV+ 1 (600p) [Not 24/7]
+https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
+#EXTINF:-1 group-title="未分类",CCTV+ 2 (600p) [Not 24/7]
+https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
+#EXTINF:-1 group-title="地方" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png",CCTV4K
+http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/1.m3u8
+#EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png",CCTV-4N
+https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+#EXTINF:-1 group-title="未分类",Celestial Movies (Indones
+http://210.210.155.37/dr9445/h/h14/index.m3u8
+#EXTINF:-1 group-title="未分类",DAAI TV (720p)
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/683cc426c19442a4ba31c53be5c963bb/index.m3u8
+#EXTINF:-1 group-title="未分类",Dragon TV International (
+http://210.210.155.37/x6bnqe/s/s29/index.m3u8
+#EXTINF:-1 group-title="未分类",EBC YOYO (720p)
+https://ythls.armelin.one/channel/UCiWRSesvSYmY7YOyz0tv_zQ.m3u8
+#EXTINF:-1 group-title="未分类",EWTN Africa Asia (720p)
+https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/live/playlist.m3u8
+#EXTINF:-1 group-title="未分类",EWTN Asia-Pacific (720p)
+https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8
+#EXTINF:-1 group-title="未分类",Global News (1080p)
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
+#EXTINF:-1 group-title="未分类",Kix (Indonesian Subtitle)
+http://210.210.155.37/dr9445/h/h07/index.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png",Liangshan TV [Not 24/7]
+http://118.122.2.29:9999/hls/47/index.m3u8
+#EXTINF:-1 group-title="未分类",Lighting Lives Blessing N
+https://brightstar-chinese-pull-secure.akamaized.net/brightstarchinese/stream.m3u8
+#EXTINF:-1 group-title="未分类",Lotus Macau HD (1080p) [N
+https://cdn1.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus.m3u8
+#EXTINF:-1 group-title="未分类",Love Nature (1080p)
+https://lnc-love-nature.tubi.video/playlist.m3u8
+#EXTINF:-1 group-title="未分类",My Cinema Asia (1080p) [G
+http://210.210.155.37/uq2663/h/h193/index.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png",NTD TV (New Tang Dynasty
+http://cnhls.ntdtv.com/cn/live400/playlist.m3u8
+#EXTINF:-1 group-title="未分类",NTD TV West (New Tang Dyn
+https://ntd02.akamaized.net/NTD-West/index.m3u8
+#EXTINF:-1 group-title="未分类",Pet Club TV
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="未分类",SET iNews
+https://ythls.armelin.one/channel/UCoNYj9OFHZn3ACmmeRCPwbA.m3u8
+#EXTINF:-1 group-title="未分类",TVBS Asia (1080p)
+http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png",tvN Movies (Indonesian Su
+http://210.210.155.37/dr9445/h/h21/index.m3u8
