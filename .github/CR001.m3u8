@@ -66,42 +66,90 @@ Bridge Русский Хит,https://strm.yandex.ru/kal/bridgetv_russkiyhit/brid
 Bridge Шлягер,https://strm.yandex.ru/kal/bridgetv_shlyager/bridgetv_shlyager0.m3u8
 
 國際,#genre#
-CNN,https://i.mjh.nz/SamsungTVPlus/GBBD8000016N.m3u8
-BBC,https://i.mjh.nz/SamsungTVPlus/US4000033L.m3u8
-CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-NBC News Now,https://i.mjh.nz/SamsungTVPlus/CAAJ2700011IF.m3u8
-Sky News,https://i.mjh.nz/SamsungTVPlus/USBB52000022Q.m3u8
-AXS TV Now,https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
-Newsmax,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-Dubai One,http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
-Al Jazeera,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-Arirang,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
-Bloomberg Asia,https://epg.pw/stream/d2edf469b9079064a283f4b0811cbf6f2597ebbb3d08dcf77036a4b5a791b7cf.m3u8
-Bloomberg Originals,https://i.mjh.nz/SamsungTVPlus/GBBC900012J9.m3u8
-CBN News,https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
-GB News,https://i.mjh.nz/SamsungTVPlus/GBBB1600008R3.m3u8
-RT News,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
-TBS,http://143.244.60.30/TBS/index.m3u8
-RT Documentary,https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
-TRT World,https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
-Taiwan Plus,https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
-ION Plus,https://i.mjh.nz/SamsungTVPlus/USBD300003LK.m3u8
-ION,https://i.mjh.nz/SamsungTVPlus/USBD300002TU.m3u8
-Love Nature,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-Disney International,http://sansat.net:88/HhPRf2nAlsVeRU9/AnzgPldGC8OHsyY/96284
-Fashion TV,http://91.247.68.229:8000/play/Fashion/index.m3u8
-Fight Network,https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
-&Flix HD,http://89.187.177.137:8081/&FLIX/index.m3u8
-Wild Earthvhttps://wildearth-plex.amagi.tv/masterR1080p.m3u8
-Wild Planetvhttps://i.mjh.nz/SamsungTVPlus/GBBB5000002PL.m3u8
-Clarity 4K,https://i.mjh.nz/SamsungTVPlus/USBA3800005NI.m3u8
-Stadium,https://i.mjh.nz/SamsungTVPlus/USAJ3504705A.m3u8
-Trace Sports,https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
-Pop,http://streamsy.online:2999/coachj88/N93DPKS9pJ/226
-Tastemade,https://i.mjh.nz/SamsungTVPlus/CABD1200002T9.m3u8
-MovieSphere,https://i.mjh.nz/SamsungTVPlus/USBD17000117B.m3u8
-The Lego Channel,https://i.mjh.nz/SamsungTVPlus/GBBC4300005AL.m3u8
-NextUp Live Comedy,https://i.mjh.nz/SamsungTVPlus/GBBD1100012JB.m3u8
+ANC ,https://ancglobal-abscbn-ono.amagi.tv/playlist720_p.m3u8
+BBC News Asia Pacific (720p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15
+Cartoon Network Southeast Asia (1080p),https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
+Cinema One (1080p),https://cinemaone-abscbn-ono.amagi.tv/index.m3u8
+DZRH News TV (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCcTiBX8js_djhSSlmJRI99A.m3u8
+HBO (1080p) [Geo-blocked],https://z88.ubtvfans.com/live/rx1/332/e5efbdc49c26d46e0559df52a8a03d19/index.m3u8
+MYX Philippines (720p),https://myxnola-abscbn-ono.amagi.tv/index.m3u8
+Super Radyo DZBB (720p) [Not 24/7],https://stream.gmanews.tv/ioslive/livestream/playlist.m3u8
+TV 5 (720p / 1080p) ,https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_qp.m3u8
+FOX LIVE ,https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
+CNN HD,https://cnn-cnninternational-1-eu.rakuten.wurl.tv/f93b9a949a4a8651dd5a2f42e3a2b6f9.m3u8
+RAKUTEN TV ,https://rakuten-topfree-1-eu.rakuten.wurl.tv/2000.m3u8
+RAKUTEN TV FAMILY,https://rakuten-family-1-eu.rakuten.wurl.tv/2000.m3u8
+RAKUTEN TV ACTION MOVIES,https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/2000.m3u8
+SONY MOVIES,https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/playlist.m3u8
+CINEMO!,https://cinemo-abscbn-ono.amagi.tv/playlist720_p.m3u8
+DREAM TV,https://ssh101-fl.bozztv.com/ssh101/dreamtvph/index.m3u8
+ASIAN CRUSH,https://amg01201-cinedigmenterta-asiancrush-cineverse-x701o.amagi.tv/playlist/amg01201-cinedigmenterta-asiancrush-cineverse/cb543d1b796c668c84cb3f62cef049a2f9421fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac7756db80148e782a8eb3dc68306d390ec90c1fbcbf5ba0f8ff5e43ca78a3b51a4b902910e39f429d8118a681d50ec85e8f25f4118095a1d88017d38f9437f852b7061632571541527ee9ab6d9e98f15931957d21560e5ce8a6808c2156e466702c337b56dd1f9b32dd8024fb115f7bc49f3def019f6eb006a9a16da9b9a29d3529c64c6f381345f0b5dae6d63027af69bb8fe8d37a7098bc721223983c89737979f897ba896357ae21976ea5cdecad7a7b0867a5bdf8e8cea3844bd308cbc9fd943c789c026e16ab52b89361d728922de69e53696b444aa99542d7c6f76a70331fc8d005942412b78ddfd89f166d9e295b7bf870d55e3269ce1f6568aa78aacd723fdf6642ae1d09d67479c04ef5b329b580dee60d34fc9ee44aed60e2b04583a756e73d720c55e0a7620e1c153de3ef600c22708c10b78484b2217b75869dfaf7ce5737102a57035cf985c944dbdf90674d6c823940477b1f109a01ac19fc085b0f23cc5e9eec3e7d8b022e3af5e558795f7f9ddcbe918db59b12e767b2a90e151a88cffbf5d1232a4e5e745aa3/162/1280x720_3329040/index.m3u8?
+TLC HD,https://varun-iptv.netlify.app/m3u/TLC.m3u8
+K-MOVIES,https://7732c5436342497882363a8cd14ceff4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_NewMovies/playlist.m3u8
+FOOD NETWORK,https://varun-iptv.netlify.app/m3u/Food%20Network.m3u8
+DISCOVERY TURBO,https://varun-iptv.netlify.app/m3u/Discovery_Turbo.m3u8
+DMAX,https://varun-iptv.netlify.app/m3u/DMAX.m3u8
+DISCOVERY HD,https://varun-iptv.netlify.app/m3u/discoveryenglish.m3u8
+DISCOVERY SCIENCE,https://varun-iptv.netlify.app/m3u/Discovery_Science.m3u8
+COMEDY CENTRAL,http://170.254.18.106/COMEDY_CENTRAL/index.m3u8
+HGTV,https://varun-iptv.netlify.app/m3u/HGTV.m3u8
+INVESTIGATION DISCOVERY HD,https://varun-iptv.netlify.app/m3u/Investigation_Discovery.m3u8
+ANIMAX (JP | No Subtitle),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
+CRUNCHYROLL | EN AUDIO / 720P,https://bit.ly/Crunchyroll-ph
+GMA LIFE,https://bit.ly/44MSmz6
+GMA PINOY,https://bit.ly/3yqN4x7
+NICKELODEON JR,https://tinyurl.com/yky2zpca
+One News,https://bit.ly/3V39Bce
+One Sports,https://bit.ly/4dIklUF
+One Sports+,https://tinyurl.com/SPORTplu
+PBO,https://bit.ly/44LFPvQ
+SARI - SARI,https://tinyurl.com/5bcc4nrw
+Super Radyo DZBB,https://tinyurl.com/RadyoDZBB
+TFC,https://bit.ly/3WLqRDR
+WWE Network,https://tinyurl.com/WWENETW
+TeleRadyo Serbisyo,https://teleradyo-abscbn-ono.amagi.tv/playlist720_p.m3u8
+CNN,https://cnn-cnninternational-1-eu.rakuten.wurl.tv/f93b9a949a4a8651dd5a2f42e3a2b6f9.m3u8
+MYX,https://myxnola-abscbn-ono.amagi.tv/index.m3u8
+INCTV,https://199211.global.ssl.fastly.net/643cc12aa824db4374021c8c/live_95f6ac80dd6511ed9d08b12be56ae55e/index.m3u8
+Travel Channel,https://dplus.gammacdn.workers.dev/videos/110.m3u8
+Cartoonito HD,https://cdn1.skygo.mn/live/disk1/Boomerang/HLS-FTA/Boomerang.m3u8
+Arirang,https://amdlive-ch03-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+ALJAZEERA,https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+KBS World,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+NHK World Japan,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+Bloomberg,https://www.bloomberg.com/media-manifest/streams/asia.m3u8
+BBC World News,https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+AXN,http://170.254.18.106/AXN/index.m3u8
+CINEMAX,http://170.254.18.106/CINEMAX/index.m3u8
+Asian Crush,https://amg01201-cinedigmenterta-asiancrush-cineverse-x701o.amagi.tv/playlist/amg01201-cinedigmenterta-asiancrush-cineverse/playlist.m3u8
+HBO Family,http://170.254.18.106/HBO_FAMILY/tracks-v1a1/mono.m3u8
+HBO Signature,http://170.254.18.106/HBO_SIG/index.m3u8
+HBO Plus,http://170.254.18.106/HBO_PLUS/index.m3u8
+HBO HD,https://z88.ubtvfans.com/live/rx1/332/e5efbdc49c26d46e0559df52a8a03d19/index.m3u8
+HBO 2,http://170.254.18.106/HBO2/index.m3u8
+HBO Xtreme,http://170.254.18.106/HBO_XTREME/index.m3u8
+CGTN News,https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+CGTN Documentaries,https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
+France 24,https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/france24_720p/playlist.m3u8
+Lotus Macau,https://cdn1.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus.m3u8
+Outdoor Channel,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
+Paramount Network,http://170.254.18.106/PARAMOUNT/index.m3u8
+Animal Planet,https://dplus.gammacdn.workers.dev/videos/99.m3u8
+Wild Planet,https://d3c7duantorcb1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jpfvel38m2ce0-prod/amgwildplanetuk/playlist.m3u8
+Thrillers,https://amc-rushbyamc-1-us.vizio.wurl.tv/playlist.m3u8
+BBC Food,https://d386m2lmbakvx4.cloudfront.net/playlist.m3u8
+American Pickers,https://d2fmvezvf9jfft.cloudfront.net/playlist.m3u8
+America's Got Talent,https://dhkq1p9audihq.cloudfront.net/index.m3u8
+American Idol,https://d2h3esqi6ab3e7.cloudfront.net/index.m3u8
+AFV,https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8
+Action!!!,https://bec-action-1-us.tcl.wurl.tv/playlist.m3u8
+24 Hour Free Movies,https://d1b5mlajbmvkjv.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-DistroTV/145.m3u8
+Redbox Spotlight,https://spotlight-redbox.amagi.tv/playlist.m3u8
+Redbox Comedy,https://comedy-redbox.amagi.tv/playlist.m3u8
+Baywatch,https://d1ku2wsea2oun8.cloudfront.net/playlist.m3u8
+Bein Sports Xtra,https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
+MovieSphere,https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
+
 
 咪咕直播,#genre#
 咪咕運動,http://[2409:8087:1a01:df::4041]/PLTV/88888888/224/3221226053/index.m3u8	
