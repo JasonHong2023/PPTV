@@ -81,6 +81,8 @@ https://z88.ubtvfans.com/live/rx1/83/5c9c7abe023c4753d66d39ce23a7ba5b/index.m3u8
 https://z88.ubtvfans.com/live/rx1/2814/8eecf538c9b2cfe2100b15b04bfabfc0/index.m3u8
 #EXTINF:-1 group-title="台灣",三立都會
 https://z88.ubtvfans.com/live/rx1/2435/ea85f251db5b39cc8ca85abb7f2349e0/index.m3u8
+#EXTINF:-1 group-title="台灣",三立LIVE
+http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 #EXTINF:-1 group-title="台灣",三立綜合
 https://z88.ubtvfans.com/live/rx1/315/8960776817856d56ff0c2c66a3b54cd3/index.m3u8
 #EXTINF:-1 group-title="台灣",三立國際
