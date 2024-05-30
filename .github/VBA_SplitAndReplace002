@@ -1,0 +1,57 @@
+'有分類
+Sub ProcessData()
+    Dim ws As Worksheet
+    Dim A1A As String
+    Dim cont As Integer
+    Dim dataArray() As String
+    Dim i As Integer
+    
+    ' 開啟 "工作表4"
+    Set ws = ThisWorkbook.Sheets("工作表4")
+    
+    ' 從第一列第一格取出值放到變數 A1A 中
+    A1A = ws.Cells(1, 1).Value
+    
+    ' 計算要執行的次數放在變數 cont 中
+    cont = ws.Cells(ws.Rows.Count, 1).End(xlUp).Row - 1
+    
+    ' 調整陣列大小以存儲資料
+    ReDim dataArray(1 To cont)
+    
+    ' 逐行處理資料
+    For i = 2 To cont + 1
+        ' 取出值並以逗號分割
+        Dim data As String
+        data = ws.Cells(i, 1).Value
+        Dim splitData() As String
+        splitData = Split(data, ",")
+        
+        ' 組合成一筆資料放入陣列中
+        dataArray(i - 1) = "#EXTINF:-1 group-title=""" & A1A & """," & splitData(0) & vbCrLf & splitData(1)
+    Next i
+    
+    ' 開啟新的工作頁
+    Dim newWs As Worksheet
+    Set newWs = ThisWorkbook.Sheets.Add
+    
+    ' 將工作頁名稱改為 "工作表4_完成"
+    newWs.Name = "工作表4_完成"
+    
+    ' 在新的工作頁中輸出資料
+    For i = 1 To cont
+        newWs.Cells(i, 1).Value = dataArray(i)
+    Next i
+    
+    ' 調整列高
+    For i = 1 To cont
+        newWs.Rows(i).RowHeight = 35 ' 根據需要調整高度
+    Next i
+    
+    ' 調整列寬
+     newWs.Columns(1).ColumnWidth = 100
+    
+    
+    ' 顯示訊息視窗告知處理完成和資料筆數
+    MsgBox "處理完成，共處理了 " & cont & " 筆資料。"
+End Sub
+
