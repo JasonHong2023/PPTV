@@ -1,0 +1,66 @@
+Sub SplitAndReplace001()
+    ' 定義來源和目標工作表
+    Dim sourceWs As Worksheet
+    Dim targetWs As Worksheet
+    
+    ' 定義最後一行的行號變數
+    Dim lastRow As Long
+    
+    ' 定義迴圈計數變數
+    Dim i As Long
+    
+    ' 定義完整文字變數
+    Dim fullText As String
+    
+    ' 定義分割後的文字數組
+    Dim splitText() As String
+    
+    ' 定義結果變數
+    Dim resultA As String
+    Dim resultB As String
+    
+    ' 定義目標行號變數
+    Dim targetRow As Long
+
+    ' 設定來源工作表為 "工作表4"
+    Set sourceWs = ThisWorkbook.Sheets("工作表4")
+    
+    ' 設定目標工作表為 "工作表6"
+    Set targetWs = ThisWorkbook.Sheets("工作表6")
+
+    ' 找到來源工作表中的最後一行
+    lastRow = sourceWs.Cells(sourceWs.Rows.Count, "A").End(xlUp).Row
+
+    ' 初始目標行號為 1
+    targetRow = 1
+
+    ' 遍歷來源工作表中的每一行
+    For i = 1 To lastRow
+        ' 取得來源工作表指定行的內容
+        fullText = sourceWs.Cells(i, 1).Value
+
+        ' 以逗號分割內容
+        splitText = Split(fullText, ",")
+
+        ' 構造結果字符串
+        If UBound(splitText) >= 1 Then
+            ' 將分割出的前段替代 A_A，後段替代 B_B
+            resultA = Replace("#EXTINF:-1 group-title=""A_A"",A_A", "A_A", splitText(0))
+            resultB = Replace("B_B", "B_B", splitText(1))
+        Else
+            ' 如果內容格式不正確，顯示錯誤訊息並退出子程序
+            MsgBox "行 " & i & " 的內容格式不正確，無法分割"
+            Exit Sub
+        End If
+
+        ' 將結果填入目標工作表的指定欄位
+        targetWs.Cells(targetRow, 1).Value = resultA ' 將結果A填入目標工作表的當前行的第一列
+        targetWs.Cells(targetRow + 1, 1).Value = resultB ' 將結果B填入目標工作表的下一行的第一列
+
+        ' 更新目標行號
+        targetRow = targetRow + 2
+    Next i
+
+    ' 操作完成後顯示訊息
+    MsgBox "操作完成！"
+End Sub
