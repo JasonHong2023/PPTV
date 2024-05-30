@@ -13,6 +13,10 @@ https://z88.ubtvfans.com/live/rx1/333/4602573c2402ea49024f1cf2298fed4c/index.m3u
 https://z88.ubtvfans.com/live/rx1/32/4a8ce7de4c89b0973b2ec986c911be1d/index.m3u8
 #EXTINF:-1 group-title="台灣",華視
 https://epg.pw/stream/2ef08642072574008f65939021951a59fe9fc71369c751393f40a1b2234e18c9.m3u8
+#EXTINF:-1 group-title="台灣",壹電視
+https://z88.ubtvfans.com/live/rx3/494/34a10e399d9b6f1cbfc5de4950430a02/index.m3u8
+#EXTINF:-1 group-title="台灣",壹電視
+https://z88.ubtvfans.com/live/rx6/2399//index.m3u8
 #EXTINF:-1 group-title="台灣",公視
 https://z88.ubtvfans.com/live/rx1/86/2f64eb300d6fad1c8adac3bd2cd0f82a/index.m3u8
 #EXTINF:-1 group-title="台灣",民視臺灣
