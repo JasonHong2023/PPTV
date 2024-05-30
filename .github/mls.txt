@@ -109,21 +109,23 @@ http://61.221.215.25:8800/hls/40/index.m3u8
 #EXTINF:-1 group-title=台灣,ANIMAX_JP
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
 
-"#EXTINF:-1 group-title=""英文"",BabyTime
-https://strm.yandex.ru/kal/baby_time/baby_time0.m3u8"
-"#EXTINF:-1 group-title=""英文"",Ani
-http://streaming.tv-teleport.ru/Ani/index.m3u8"
-"#EXTINF:-1 group-title=""英文"",Bridge (Музыка Канал)
-https://strm.yandex.ru/kal/bridgetv/bridgetv0.m3u8"
-"#EXTINF:-1 group-title=""英文"",Bridge (Classic)
-https://strm.yandex.ru/kal/bridgetvclassic/bridgetvclassic0.m3u8"
-"#EXTINF:-1 group-title=""英文"",Bridge (Deluxe)
-https://strm.yandex.ru/kal/bridgetvdeluxe/bridgetvdeluxe0.m3u8"
-"#EXTINF:-1 group-title=""英文"",Bridge (Hits)
-https://strm.yandex.ru/kal/bridgetvhits/bridgetvhits0.m3u8"
-"#EXTINF:-1 group-title=""英文"",Bridge (Rock)
-https://strm.yandex.ru/kal/bridge_tv_fresh/bridge_tv_fresh0.m3u8"
-"#EXTINF:-1 group-title=""英文"",Bridge Русский Хит
-https://strm.yandex.ru/kal/bridgetv_russkiyhit/bridgetv_russkiyhit0.m3u8"
-"#EXTINF:-1 group-title=""英文"",Bridge Шлягер
-https://strm.yandex.ru/kal/bridgetv_shlyager/bridgetv_shlyager0.m3u8"
+#EXTINF:-1 group-title=英文,BabyTime
+https://strm.yandex.ru/kal/baby_time/baby_time0.m3u8
+#EXTINF:-1 group-title=英文,Ani
+http://streaming.tv-teleport.ru/Ani/index.m3u8
+#EXTINF:-1 group-title=英文,Bridge (Музыка Канал)
+https://strm.yandex.ru/kal/bridgetv/bridgetv0.m3u8
+#EXTINF:-1 group-title=英文,Bridge (Classic)
+https://strm.yandex.ru/kal/bridgetvclassic/bridgetvclassic0.m3u8
+#EXTINF:-1 group-title=英文,Bridge (Deluxe)
+https://strm.yandex.ru/kal/bridgetvdeluxe/bridgetvdeluxe0.m3u8
+#EXTINF:-1 group-title=英文,Bridge (Hits)
+https://strm.yandex.ru/kal/bridgetvhits/bridgetvhits0.m3u8
+#EXTINF:-1 group-title=英文,Bridge (Rock)
+https://strm.yandex.ru/kal/bridge_tv_fresh/bridge_tv_fresh0.m3u8
+#EXTINF:-1 group-title=英文,Bridge Русский Хит
+https://strm.yandex.ru/kal/bridgetv_russkiyhit/bridgetv_russkiyhit0.m3u8
+#EXTINF:-1 group-title=英文,Bridge Шлягер
+https://strm.yandex.ru/kal/bridgetv_shlyager/bridgetv_shlyager0.m3u8
+
+
