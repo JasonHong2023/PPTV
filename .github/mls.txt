@@ -128,4 +128,82 @@ https://strm.yandex.ru/kal/bridgetv_russkiyhit/bridgetv_russkiyhit0.m3u8
 #EXTINF:-1 group-title=英文,Bridge Шлягер
 https://strm.yandex.ru/kal/bridgetv_shlyager/bridgetv_shlyager0.m3u8
 
+#EXTINF:-1 group-title=英文,NICKELODEON JR
+https://tinyurl.com/yky2zpca
+#EXTINF:-1 group-title=英文,One News
+https://bit.ly/3V39Bce
+#EXTINF:-1 group-title=英文,One Sports
+https://bit.ly/4dIklUF
+#EXTINF:-1 group-title=英文,One Sports+
+https://tinyurl.com/SPORTplu
+#EXTINF:-1 group-title=英文,PBO
+https://bit.ly/44LFPvQ
+#EXTINF:-1 group-title=英文,SARI - SARI
+https://tinyurl.com/5bcc4nrw
+#EXTINF:-1 group-title=英文,Super Radyo DZBB
+https://tinyurl.com/RadyoDZBB
+#EXTINF:-1 group-title=英文,TFC
+https://bit.ly/3WLqRDR
+#EXTINF:-1 group-title=英文,WWE Network
+https://tinyurl.com/WWENETW
+#EXTINF:-1 group-title=英文,TeleRadyo Serbisyo
+https://teleradyo-abscbn-ono.amagi.tv/playlist720_p.m3u8
+#EXTINF:-1 group-title=英文,CNN
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/f93b9a949a4a8651dd5a2f42e3a2b6f9.m3u8
+#EXTINF:-1 group-title=英文,MYX
+https://myxnola-abscbn-ono.amagi.tv/index.m3u8
+#EXTINF:-1 group-title=英文,INCTV
+https://199211.global.ssl.fastly.net/643cc12aa824db4374021c8c/live_95f6ac80dd6511ed9d08b12be56ae55e/index.m3u8
+#EXTINF:-1 group-title=英文,Travel Channel
+https://dplus.gammacdn.workers.dev/videos/110.m3u8
+#EXTINF:-1 group-title=英文,Cartoonito HD
+https://cdn1.skygo.mn/live/disk1/Boomerang/HLS-FTA/Boomerang.m3u8
+#EXTINF:-1 group-title=英文,Arirang
+https://amdlive-ch03-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 group-title=英文,ALJAZEERA
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+#EXTINF:-1 group-title=英文,KBS World
+https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+#EXTINF:-1 group-title=英文,NHK World Japan
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+#EXTINF:-1 group-title=英文,Bloomberg
+https://www.bloomberg.com/media-manifest/streams/asia.m3u8
+#EXTINF:-1 group-title=英文,BBC World News
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 group-title=英文,AXN
+http://170.254.18.106/AXN/index.m3u8
+#EXTINF:-1 group-title=英文,CINEMAX
+http://170.254.18.106/CINEMAX/index.m3u8
+#EXTINF:-1 group-title=英文,Asian Crush
+https://amg01201-cinedigmenterta-asiancrush-cineverse-x701o.amagi.tv/playlist/amg01201-cinedigmenterta-asiancrush-cineverse/playlist.m3u8
+#EXTINF:-1 group-title=英文,HBO Family
+http://170.254.18.106/HBO_FAMILY/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title=英文,HBO Signature
+http://170.254.18.106/HBO_SIG/index.m3u8
+#EXTINF:-1 group-title=英文,HBO Plus
+http://170.254.18.106/HBO_PLUS/index.m3u8
+#EXTINF:-1 group-title=英文,HBO HD
+https://z88.ubtvfans.com/live/rx1/332/e5efbdc49c26d46e0559df52a8a03d19/index.m3u8
+#EXTINF:-1 group-title=英文,HBO 2
+http://170.254.18.106/HBO2/index.m3u8
+#EXTINF:-1 group-title=英文,HBO Xtreme
+http://170.254.18.106/HBO_XTREME/index.m3u8
+#EXTINF:-1 group-title=英文,CGTN News
+https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+#EXTINF:-1 group-title=英文,CGTN Documentaries
+https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
+#EXTINF:-1 group-title=英文,France 24
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/france24_720p/playlist.m3u8
+#EXTINF:-1 group-title=英文,Lotus Macau
+https://cdn1.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus.m3u8
+#EXTINF:-1 group-title=英文,Outdoor Channel
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title=英文,Paramount Network
+http://170.254.18.106/PARAMOUNT/index.m3u8
+#EXTINF:-1 group-title=英文,Animal Planet
+https://dplus.gammacdn.workers.dev/videos/99.m3u8
+#EXTINF:-1 group-title=英文,Wild Planet
+https://d3c7duantorcb1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jpfvel38m2ce0-prod/amgwildplanetuk/playlist.m3u8
+#EXTINF:-1 group-title=英文,Thrillers
+https://amc-rushbyamc-1-us.vizio.wurl.tv/playlist.m3u8
 
