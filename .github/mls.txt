@@ -29,6 +29,14 @@ http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 https://z88.ubtvfans.com/live/rx1/2726/b780ea0729a7afe23c901290fd88df1c/index.m3u8
 #EXTINF:-1 group-title="台灣",緯來日本
 https://z88.ubtvfans.com/live/rx3/46/f02a81ef8894bafbc6efb82a89384917/index.m3u8
+#EXTINF:-1 group-title="台灣",緯來日本
+rtmp://f13h.mine.nu/sat/tv771
+#EXTINF:-1 group-title="台灣",緯來日本
+rtmp://220.130.201.73/sat/tv771
+#EXTINF:-1 group-title="台灣",緯來日本
+rtmp://f13h.mine.nu/sat/tv771
+#EXTINF:-1 group-title="台灣",緯來日本
+rtmp://f13h.mine.nu/sat/tv771
 #EXTINF:-1 group-title="台灣",緯來電影
 https://z88.ubtvfans.com/live/rx1/2728/4a67b3bc50b0d12c49c3b29faaacacb2/index.m3u8
 #EXTINF:-1 group-title="台灣",緯來精采台
@@ -123,6 +131,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
 https://z88.ubtvfans.com/live/rx2/1127/fb9c792790b1ed7dd6ccccbd5895b458/index.m3u8
 #EXTINF:-1 group-title="台灣",i-Fun動漫
 https://z88.ubtvfans.com/live/rx1/2802/ea90ad21d35b54b28198d9fac02fba8a/index.m3u8
+
 
 #EXTINF:-1 group-title="英文",BabyTime
 https://strm.yandex.ru/kal/baby_time/baby_time0.m3u8
