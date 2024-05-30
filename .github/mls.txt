@@ -207,3 +207,80 @@ https://d3c7duantorcb1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 group-title=英文,Thrillers
 https://amc-rushbyamc-1-us.vizio.wurl.tv/playlist.m3u8
 
+#EXTINF:-1 group-title=英文,BBC Food
+https://d386m2lmbakvx4.cloudfront.net/playlist.m3u8
+#EXTINF:-1 group-title=英文,American Pickers
+https://d2fmvezvf9jfft.cloudfront.net/playlist.m3u8
+#EXTINF:-1 group-title=英文,Americas Got Talent
+https://dhkq1p9audihq.cloudfront.net/index.m3u8
+#EXTINF:-1 group-title=英文,American Idol
+https://d2h3esqi6ab3e7.cloudfront.net/index.m3u8
+#EXTINF:-1 group-title=英文,AFV
+https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8
+#EXTINF:-1 group-title=英文,Action
+https://bec-action-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title=英文,24 Hour Free Movies
+https://d1b5mlajbmvkjv.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-DistroTV/145.m3u8
+#EXTINF:-1 group-title=英文,Redbox Spotlight
+https://spotlight-redbox.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title=英文,Redbox Comedy
+https://comedy-redbox.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title=英文,Baywatch
+https://d1ku2wsea2oun8.cloudfront.net/playlist.m3u8
+#EXTINF:-1 group-title=英文,Bein Sports Xtra
+https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title=英文,MovieSphere
+https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title=英文,Newsmax
+http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:-1 group-title=英文,Dubai One
+http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
+#EXTINF:-1 group-title=英文,Al Jazeera
+http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1 group-title=英文,Arirang
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
+#EXTINF:-1 group-title=英文,Bloomberg Asia
+https://epg.pw/stream/d2edf469b9079064a283f4b0811cbf6f2597ebbb3d08dcf77036a4b5a791b7cf.m3u8
+#EXTINF:-1 group-title=英文,Bloomberg Originals
+https://i.mjh.nz/SamsungTVPlus/GBBC900012J9.m3u8
+#EXTINF:-1 group-title=英文,CBN News
+https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
+#EXTINF:-1 group-title=英文,GB News
+https://i.mjh.nz/SamsungTVPlus/GBBB1600008R3.m3u8
+#EXTINF:-1 group-title=英文,TBS
+http://143.244.60.30/TBS/index.m3u8
+#EXTINF:-1 group-title=英文,TRT World
+https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
+
+#EXTINF:-1 group-title=英文,Taiwan Plus
+https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
+#EXTINF:-1 group-title=英文,ION Plus
+https://i.mjh.nz/SamsungTVPlus/USBD300003LK.m3u8
+#EXTINF:-1 group-title=英文,ION
+https://i.mjh.nz/SamsungTVPlus/USBD300002TU.m3u8
+#EXTINF:-1 group-title=英文,Love Nature
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1 group-title=英文,Fashion TV
+http://91.247.68.229:8000/play/Fashion/index.m3u8
+#EXTINF:-1 group-title=英文,Fight Network
+https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
+#EXTINF:-1 group-title=英文,Wild Earthv
+https://wildearth-plex.amagi.tv/masterR1080p.m3u8
+#EXTINF:-1 group-title=英文,Wild Planetv
+https://i.mjh.nz/SamsungTVPlus/GBBB5000002PL.m3u8
+#EXTINF:-1 group-title=英文,Clarity 4K
+https://i.mjh.nz/SamsungTVPlus/USBA3800005NI.m3u8
+#EXTINF:-1 group-title=英文,Stadium
+https://i.mjh.nz/SamsungTVPlus/USAJ3504705A.m3u8
+#EXTINF:-1 group-title=英文,Trace Sports
+https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 group-title=英文,Pop
+http://streamsy.online:2999/coachj88/N93DPKS9pJ/226
+#EXTINF:-1 group-title=英文,Tastemade
+https://i.mjh.nz/SamsungTVPlus/CABD1200002T9.m3u8
+#EXTINF:-1 group-title=英文,MovieSphere
+https://i.mjh.nz/SamsungTVPlus/USBD17000117B.m3u8
+#EXTINF:-1 group-title=英文,The Lego Channel
+https://i.mjh.nz/SamsungTVPlus/GBBC4300005AL.m3u8
+#EXTINF:-1 group-title=英文,NextUp Live Comedy
+https://i.mjh.nz/SamsungTVPlus/GBBD1100012JB.m3u8
