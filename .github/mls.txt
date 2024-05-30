@@ -1,287 +1,287 @@
 #EXTM3U
-#EXTINF:-1 group-title=台灣,台視新聞
+#EXTINF:-1 group-title="台灣",台視新聞
 https://ythls.armelin.one/channel/UC8ROUUjHzEQm-ndb69CX8Ww.m3u8
-#EXTINF:-1 group-title=台灣,台視新聞
+#EXTINF:-1 group-title="台灣",台視新聞
 https://youtube.livednow.com/stream/xL0ch83RAK8
-#EXTINF:-1 group-title=台灣,中視HD
+#EXTINF:-1 group-title="台灣",中視HD
 https://youtube.livednow.com/stream/ADDSmXoPDY8
-#EXTINF:-1 group-title=台灣,中視
+#EXTINF:-1 group-title="台灣",中視
 https://z88.ubtvfans.com/live/rx1/333/4602573c2402ea49024f1cf2298fed4c/index.m3u8
-#EXTINF:-1 group-title=台灣,華視
+#EXTINF:-1 group-title="台灣",華視
 https://z88.ubtvfans.com/live/rx1/32/4a8ce7de4c89b0973b2ec986c911be1d/index.m3u8
-#EXTINF:-1 group-title=台灣,華視
+#EXTINF:-1 group-title="台灣",華視
 https://epg.pw/stream/2ef08642072574008f65939021951a59fe9fc71369c751393f40a1b2234e18c9.m3u8
-#EXTINF:-1 group-title=台灣,公視
+#EXTINF:-1 group-title="台灣",公視
 https://z88.ubtvfans.com/live/rx1/86/2f64eb300d6fad1c8adac3bd2cd0f82a/index.m3u8
-#EXTINF:-1 group-title=台灣,民視臺灣
+#EXTINF:-1 group-title="台灣",民視臺灣
 https://z88.ubtvfans.com/live/rx1/36/5c8794bb35c77bc62b0f2cf402294053/index.m3u8
-#EXTINF:-1 group-title=台灣,民視新聞
+#EXTINF:-1 group-title="台灣",民視新聞
 https://ythls.armelin.one/channel/UC2VmWn8dAqkzlQqvy02E1PA.m3u8
-#EXTINF:-1 group-title=台灣,緯來綜合
+#EXTINF:-1 group-title="台灣",緯來綜合
 https://z88.ubtvfans.com/live/rx1/2726/b780ea0729a7afe23c901290fd88df1c/index.m3u8
-#EXTINF:-1 group-title=台灣,緯來日本
+#EXTINF:-1 group-title="台灣",緯來日本
 https://z88.ubtvfans.com/live/rx3/46/f02a81ef8894bafbc6efb82a89384917/index.m3u8
-#EXTINF:-1 group-title=台灣,緯來電影
+#EXTINF:-1 group-title="台灣",緯來電影
 https://z88.ubtvfans.com/live/rx1/2728/4a67b3bc50b0d12c49c3b29faaacacb2/index.m3u8
-#EXTINF:-1 group-title=台灣,緯來精采台
+#EXTINF:-1 group-title="台灣",緯來精采台
 http://61.221.215.25:8800/hls/48/index.m3u8
-#EXTINF:-1 group-title=台灣,靖天綜合
+#EXTINF:-1 group-title="台灣",靖天綜合
 https://z88.ubtvfans.com/live/rx1/308/627a8486708e9b56975ce7a3ce565780/index.m3u8
-#EXTINF:-1 group-title=台灣,靖天日本
+#EXTINF:-1 group-title="台灣",靖天日本
 https://z88.ubtvfans.com/live/rx1/108/30128c2cf29a96e7265023b67dacce72/index.m3u8
-#EXTINF:-1 group-title=台灣,靖天映畫
+#EXTINF:-1 group-title="台灣",靖天映畫
 https://z88.ubtvfans.com/live/rx1/349/9db2ee2694bb4a6d4135c0c5e0f2762d/index.m3u8
-#EXTINF:-1 group-title=台灣,靖天電影
+#EXTINF:-1 group-title="台灣",靖天電影
 https://z88.ubtvfans.com/live/rx1/110/9f1bd22a531aa9ee1549daf10b3f4f72/index.m3u8
-#EXTINF:-1 group-title=台灣,靖天資訊
+#EXTINF:-1 group-title="台灣",靖天資訊
 https://z88.ubtvfans.com/live/rx2/49/cd7e36a6d9c6bcf592b70b87b37f05be/index.m3u8
-#EXTINF:-1 group-title=台灣,靖天育樂
+#EXTINF:-1 group-title="台灣",靖天育樂
 https://z88.ubtvfans.com/live/rx1/1029/5649a5194016999565cf8502a498f0d6/index.m3u8
-#EXTINF:-1 group-title=台灣,靖洋戲劇
+#EXTINF:-1 group-title="台灣",靖洋戲劇
 https://z88.ubtvfans.com/live/rx1/319/34284625aac41ea82c5e051aee972bdb/index.m3u8
-#EXTINF:-1 group-title=台灣,龍華電影
+#EXTINF:-1 group-title="台灣",龍華電影
 https://z88.ubtvfans.com/live/rx1/311/1c999026db4aa94fc7b3eab2a9428b59/index.m3u8
-#EXTINF:-1 group-title=台灣,龍華日韓
+#EXTINF:-1 group-title="台灣",龍華日韓
 https://z88.ubtvfans.com/live/rx1/382/897ab118ac4987dd9fb8743cdef65216/index.m3u8
-#EXTINF:-1 group-title=台灣,龍華偶像
+#EXTINF:-1 group-title="台灣",龍華偶像
 https://z88.ubtvfans.com/live/rx1/385/6b9f9db94ecf4a1fa93ceda0b35a01da/index.m3u8
-#EXTINF:-1 group-title=台灣,龍華戲劇
+#EXTINF:-1 group-title="台灣",龍華戲劇
 https://z88.ubtvfans.com/live/rx3/365/a16a27244b8440091f776004d7b3b0fe/index.m3u8
-#EXTINF:-1 group-title=台灣,龍祥時代
+#EXTINF:-1 group-title="台灣",龍祥時代
 https://z88.ubtvfans.com/live/rx1/373/bfdc688427aa691d1baeae1fc2d1384f/index.m3u8
-#EXTINF:-1 group-title=台灣,靖洋卡通
+#EXTINF:-1 group-title="台灣",靖洋卡通
 https://z88.ubtvfans.com/live/rx1/348/f46f118edd38e34cf5f65affac4835dd/index.m3u8
-#EXTINF:-1 group-title=台灣,東森超視
+#EXTINF:-1 group-title="台灣",東森超視
 https://z88.ubtvfans.com/live/rx1/80/1b79a8a00f6ef2e6e5f73f98084d4d02/index.m3u8
-#EXTINF:-1 group-title=台灣,東森電影
+#EXTINF:-1 group-title="台灣",東森電影
 https://z88.ubtvfans.com/live/rx1/350/44b9d828c69ab77ac370b97682959610/index.m3u8
-#EXTINF:-1 group-title=台灣,東森洋片
+#EXTINF:-1 group-title="台灣",東森洋片
 https://z88.ubtvfans.com/live/rx1/1128/fade026d9ed28330bb37ac8ca20caeac/index.m3u8
-#EXTINF:-1 group-title=台灣,東森綜合HD
+#EXTINF:-1 group-title="台灣",東森綜合HD
 https://z88.ubtvfans.com/live/rx1/372/04957ead8303b91527c70a0ed3584d33/index.m3u8
-#EXTINF:-1 group-title=台灣,東森幼幼HD
+#EXTINF:-1 group-title="台灣",東森幼幼HD
 https://z88.ubtvfans.com/live/rx1/371/0fd95cba4794f8bed187c2bcfa9c47d1/index.m3u8
-#EXTINF:-1 group-title=台灣,東森幼幼
+#EXTINF:-1 group-title="台灣",東森幼幼
 https://ythls.armelin.one/channel/UCiWRSesvSYmY7YOyz0tv_zQ.m3u8
-#EXTINF:-1 group-title=台灣,東森新聞
+#EXTINF:-1 group-title="台灣",東森新聞
 https://epg.pw/stream/54221319de813f4675b6ccd9ab958d744ed33570caa663c854e9727240d7cbdb.m3u8
-#EXTINF:-1 group-title=台灣,東森美洲
+#EXTINF:-1 group-title="台灣",東森美洲
 https://epg.pw/stream/41fd1dc90b335e2c39f811e013a8bc45d966113d4b326afb8bed450591629da1.m3u8
-#EXTINF:-1 group-title=台灣,東森美洲衛視
+#EXTINF:-1 group-title="台灣",東森美洲衛視
 https://epg.pw/stream/568e26b29122e84e3527b97eca553332274777bdf39873fb234fb6581a3f6a59.m3u8
-#EXTINF:-1 group-title=台灣,美亞電影
+#EXTINF:-1 group-title="台灣",美亞電影
 https://z88.ubtvfans.com/live/rx1/375/52fc7016f1457b85d795a61bbe7921f8/index.m3u8
-#EXTINF:-1 group-title=台灣,華納電影
+#EXTINF:-1 group-title="台灣",華納電影
 https://z88.ubtvfans.com/live/rx1/83/5c9c7abe023c4753d66d39ce23a7ba5b/index.m3u8
-#EXTINF:-1 group-title=台灣,鳳凰電影
+#EXTINF:-1 group-title="台灣",鳳凰電影
 https://z88.ubtvfans.com/live/rx1/2814/8eecf538c9b2cfe2100b15b04bfabfc0/index.m3u8
-#EXTINF:-1 group-title=台灣,三立都會
+#EXTINF:-1 group-title="台灣",三立都會
 https://z88.ubtvfans.com/live/rx1/2435/ea85f251db5b39cc8ca85abb7f2349e0/index.m3u8
-#EXTINF:-1 group-title=台灣,三立綜合
+#EXTINF:-1 group-title="台灣",三立綜合
 https://z88.ubtvfans.com/live/rx1/315/8960776817856d56ff0c2c66a3b54cd3/index.m3u8
-#EXTINF:-1 group-title=台灣,三立國際
+#EXTINF:-1 group-title="台灣",三立國際
 https://z88.ubtvfans.com/live/rx3/2285/6a8add031ee3407648e3eb8731932206/index.m3u8
-#EXTINF:-1 group-title=台灣,TVBS新聞
+#EXTINF:-1 group-title="台灣",TVBS新聞
 https://z88.ubtvfans.com/live/rx5/2736/be2d52910873cb20d510f4f1ef0804ba/index.m3u8
-#EXTINF:-1 group-title=台灣,TVBS News
+#EXTINF:-1 group-title="台灣",TVBS News
 https://ythls.armelin.one/channel/UC5nwNW4KdC0SzrhF9BXEYOQ.m3u8
-#EXTINF:-1 group-title=台灣,TVBS歡樂HD
+#EXTINF:-1 group-title="台灣",TVBS歡樂HD
 https://z88.ubtvfans.com/live/rx1/40/ab8e4c8b1b495ed575b69c9ed3fe1f72/index.m3u8
-#EXTINF:-1 group-title=台灣,衛星劇場
+#EXTINF:-1 group-title="台灣",衛星劇場
 https://z88.ubtvfans.com/live/rx3/2345/35579bf9a6e28c16c606bda562bd77dd/index.m3u8
-#EXTINF:-1 group-title=台灣,中天綜合HD
+#EXTINF:-1 group-title="台灣",中天綜合HD
 https://z88.ubtvfans.com/live/rx3/54/b8751095c9d94abc7d87c8593fad2300/index.m3u8
-#EXTINF:-1 group-title=台灣,中天娛樂HD
+#EXTINF:-1 group-title="台灣",中天娛樂HD
 https://z88.ubtvfans.com/live/rx1/324/461220d54ade176ad23396b4c39a3fe4/index.m3u8
-#EXTINF:-1 group-title=台灣,八大綜合
+#EXTINF:-1 group-title="台灣",八大綜合
 https://epg.pw/stream/e7df67a1a8400d4741889391ccc7e8a2b3f623a4f19544ae0863ae2c184bbe2c.m3u8
-#EXTINF:-1 group-title=台灣,八大第一
+#EXTINF:-1 group-title="台灣",八大第一
 https://z88.ubtvfans.com/live/rx1/318/caf30fed70d5227d71cf045a1d212005/index.m3u8
-#EXTINF:-1 group-title=台灣,八大戲劇
+#EXTINF:-1 group-title="台灣",八大戲劇
 https://epg.pw/stream/502ec7a7075f723ec1288fb463708460e8fa0d4f7932812fe508aee001ccc04a.m3u8
-#EXTINF:-1 group-title=台灣,八大娛樂
+#EXTINF:-1 group-title="台灣",八大娛樂
 https://z88.ubtvfans.com/live/rx1/105/18d99bf74ef856f47b3fee019df5b5ea/index.m3u8
-#EXTINF:-1 group-title=台灣,探索動力DMAX
+#EXTINF:-1 group-title="台灣",探索動力DMAX
 https://z88.ubtvfans.com/live/rx1/335/d37c0712b079bb3a90d73d96777ce688/index.m3u8
-#EXTINF:-1 group-title=台灣,動物星球
+#EXTINF:-1 group-title="台灣",動物星球
 https://z88.ubtvfans.com/live/rx1/367/ec2a5cc942ff9cd56dfea2aa478c5f35/index.m3u8
-#EXTINF:-1 group-title=台灣,懷舊卡通
+#EXTINF:-1 group-title="台灣",懷舊卡通
 http://61.221.215.25:8800/hls/40/index.m3u8
-#EXTINF:-1 group-title=台灣,ANIMAX_JP
+#EXTINF:-1 group-title="台灣",ANIMAX_JP
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
 
-#EXTINF:-1 group-title=英文,BabyTime
+#EXTINF:-1 group-title="英文",BabyTime
 https://strm.yandex.ru/kal/baby_time/baby_time0.m3u8
-#EXTINF:-1 group-title=英文,Ani
+#EXTINF:-1 group-title="英文",Ani
 http://streaming.tv-teleport.ru/Ani/index.m3u8
-#EXTINF:-1 group-title=英文,Bridge (Музыка Канал)
+#EXTINF:-1 group-title="英文",Bridge (Музыка Канал)
 https://strm.yandex.ru/kal/bridgetv/bridgetv0.m3u8
-#EXTINF:-1 group-title=英文,Bridge (Classic)
+#EXTINF:-1 group-title="英文",Bridge (Classic)
 https://strm.yandex.ru/kal/bridgetvclassic/bridgetvclassic0.m3u8
-#EXTINF:-1 group-title=英文,Bridge (Deluxe)
+#EXTINF:-1 group-title="英文",Bridge (Deluxe)
 https://strm.yandex.ru/kal/bridgetvdeluxe/bridgetvdeluxe0.m3u8
-#EXTINF:-1 group-title=英文,Bridge (Hits)
+#EXTINF:-1 group-title="英文",Bridge (Hits)
 https://strm.yandex.ru/kal/bridgetvhits/bridgetvhits0.m3u8
-#EXTINF:-1 group-title=英文,Bridge (Rock)
+#EXTINF:-1 group-title="英文",Bridge (Rock)
 https://strm.yandex.ru/kal/bridge_tv_fresh/bridge_tv_fresh0.m3u8
-#EXTINF:-1 group-title=英文,Bridge Русский Хит
+#EXTINF:-1 group-title="英文",Bridge Русский Хит
 https://strm.yandex.ru/kal/bridgetv_russkiyhit/bridgetv_russkiyhit0.m3u8
-#EXTINF:-1 group-title=英文,Bridge Шлягер
+#EXTINF:-1 group-title="英文",Bridge Шлягер
 https://strm.yandex.ru/kal/bridgetv_shlyager/bridgetv_shlyager0.m3u8
 
-#EXTINF:-1 group-title=英文,NICKELODEON JR
+#EXTINF:-1 group-title="英文",NICKELODEON JR
 https://tinyurl.com/yky2zpca
-#EXTINF:-1 group-title=英文,One News
+#EXTINF:-1 group-title="英文",One News
 https://bit.ly/3V39Bce
-#EXTINF:-1 group-title=英文,One Sports
+#EXTINF:-1 group-title="英文",One Sports
 https://bit.ly/4dIklUF
-#EXTINF:-1 group-title=英文,One Sports+
+#EXTINF:-1 group-title="英文",One Sports+
 https://tinyurl.com/SPORTplu
-#EXTINF:-1 group-title=英文,PBO
+#EXTINF:-1 group-title="英文",PBO
 https://bit.ly/44LFPvQ
-#EXTINF:-1 group-title=英文,SARI - SARI
+#EXTINF:-1 group-title="英文",SARI - SARI
 https://tinyurl.com/5bcc4nrw
-#EXTINF:-1 group-title=英文,Super Radyo DZBB
+#EXTINF:-1 group-title="英文",Super Radyo DZBB
 https://tinyurl.com/RadyoDZBB
-#EXTINF:-1 group-title=英文,TFC
+#EXTINF:-1 group-title="英文",TFC
 https://bit.ly/3WLqRDR
-#EXTINF:-1 group-title=英文,WWE Network
+#EXTINF:-1 group-title="英文",WWE Network
 https://tinyurl.com/WWENETW
-#EXTINF:-1 group-title=英文,TeleRadyo Serbisyo
+#EXTINF:-1 group-title="英文",TeleRadyo Serbisyo
 https://teleradyo-abscbn-ono.amagi.tv/playlist720_p.m3u8
-#EXTINF:-1 group-title=英文,CNN
+#EXTINF:-1 group-title="英文",CNN
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/f93b9a949a4a8651dd5a2f42e3a2b6f9.m3u8
-#EXTINF:-1 group-title=英文,MYX
+#EXTINF:-1 group-title="英文",MYX
 https://myxnola-abscbn-ono.amagi.tv/index.m3u8
-#EXTINF:-1 group-title=英文,INCTV
+#EXTINF:-1 group-title="英文",INCTV
 https://199211.global.ssl.fastly.net/643cc12aa824db4374021c8c/live_95f6ac80dd6511ed9d08b12be56ae55e/index.m3u8
-#EXTINF:-1 group-title=英文,Travel Channel
+#EXTINF:-1 group-title="英文",Travel Channel
 https://dplus.gammacdn.workers.dev/videos/110.m3u8
-#EXTINF:-1 group-title=英文,Cartoonito HD
+#EXTINF:-1 group-title="英文",Cartoonito HD
 https://cdn1.skygo.mn/live/disk1/Boomerang/HLS-FTA/Boomerang.m3u8
-#EXTINF:-1 group-title=英文,Arirang
+#EXTINF:-1 group-title="英文",Arirang
 https://amdlive-ch03-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 group-title=英文,ALJAZEERA
+#EXTINF:-1 group-title="英文",ALJAZEERA
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
-#EXTINF:-1 group-title=英文,KBS World
+#EXTINF:-1 group-title="英文",KBS World
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
-#EXTINF:-1 group-title=英文,NHK World Japan
+#EXTINF:-1 group-title="英文",NHK World Japan
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
-#EXTINF:-1 group-title=英文,Bloomberg
+#EXTINF:-1 group-title="英文",Bloomberg
 https://www.bloomberg.com/media-manifest/streams/asia.m3u8
-#EXTINF:-1 group-title=英文,BBC World News
+#EXTINF:-1 group-title="英文",BBC World News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 group-title=英文,AXN
+#EXTINF:-1 group-title="英文",AXN
 http://170.254.18.106/AXN/index.m3u8
-#EXTINF:-1 group-title=英文,CINEMAX
+#EXTINF:-1 group-title="英文",CINEMAX
 http://170.254.18.106/CINEMAX/index.m3u8
-#EXTINF:-1 group-title=英文,Asian Crush
+#EXTINF:-1 group-title="英文",Asian Crush
 https://amg01201-cinedigmenterta-asiancrush-cineverse-x701o.amagi.tv/playlist/amg01201-cinedigmenterta-asiancrush-cineverse/playlist.m3u8
-#EXTINF:-1 group-title=英文,HBO Family
+#EXTINF:-1 group-title="英文",HBO Family
 http://170.254.18.106/HBO_FAMILY/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title=英文,HBO Signature
+#EXTINF:-1 group-title="英文",HBO Signature
 http://170.254.18.106/HBO_SIG/index.m3u8
-#EXTINF:-1 group-title=英文,HBO Plus
+#EXTINF:-1 group-title="英文",HBO Plus
 http://170.254.18.106/HBO_PLUS/index.m3u8
-#EXTINF:-1 group-title=英文,HBO HD
+#EXTINF:-1 group-title="英文",HBO HD
 https://z88.ubtvfans.com/live/rx1/332/e5efbdc49c26d46e0559df52a8a03d19/index.m3u8
-#EXTINF:-1 group-title=英文,HBO 2
+#EXTINF:-1 group-title="英文",HBO 2
 http://170.254.18.106/HBO2/index.m3u8
-#EXTINF:-1 group-title=英文,HBO Xtreme
+#EXTINF:-1 group-title="英文",HBO Xtreme
 http://170.254.18.106/HBO_XTREME/index.m3u8
-#EXTINF:-1 group-title=英文,CGTN News
+#EXTINF:-1 group-title="英文",CGTN News
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
-#EXTINF:-1 group-title=英文,CGTN Documentaries
+#EXTINF:-1 group-title="英文",CGTN Documentaries
 https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
-#EXTINF:-1 group-title=英文,France 24
+#EXTINF:-1 group-title="英文",France 24
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/france24_720p/playlist.m3u8
-#EXTINF:-1 group-title=英文,Lotus Macau
+#EXTINF:-1 group-title="英文",Lotus Macau
 https://cdn1.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus.m3u8
-#EXTINF:-1 group-title=英文,Outdoor Channel
+#EXTINF:-1 group-title="英文",Outdoor Channel
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
-#EXTINF:-1 group-title=英文,Paramount Network
+#EXTINF:-1 group-title="英文",Paramount Network
 http://170.254.18.106/PARAMOUNT/index.m3u8
-#EXTINF:-1 group-title=英文,Animal Planet
+#EXTINF:-1 group-title="英文",Animal Planet
 https://dplus.gammacdn.workers.dev/videos/99.m3u8
-#EXTINF:-1 group-title=英文,Wild Planet
+#EXTINF:-1 group-title="英文",Wild Planet
 https://d3c7duantorcb1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jpfvel38m2ce0-prod/amgwildplanetuk/playlist.m3u8
-#EXTINF:-1 group-title=英文,Thrillers
+#EXTINF:-1 group-title="英文",Thrillers
 https://amc-rushbyamc-1-us.vizio.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 group-title=英文,BBC Food
+#EXTINF:-1 group-title="英文",BBC Food
 https://d386m2lmbakvx4.cloudfront.net/playlist.m3u8
-#EXTINF:-1 group-title=英文,American Pickers
+#EXTINF:-1 group-title="英文",American Pickers
 https://d2fmvezvf9jfft.cloudfront.net/playlist.m3u8
-#EXTINF:-1 group-title=英文,Americas Got Talent
+#EXTINF:-1 group-title="英文",Americas Got Talent
 https://dhkq1p9audihq.cloudfront.net/index.m3u8
-#EXTINF:-1 group-title=英文,American Idol
+#EXTINF:-1 group-title="英文",American Idol
 https://d2h3esqi6ab3e7.cloudfront.net/index.m3u8
-#EXTINF:-1 group-title=英文,AFV
+#EXTINF:-1 group-title="英文",AFV
 https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8
-#EXTINF:-1 group-title=英文,Action
+#EXTINF:-1 group-title="英文",Action
 https://bec-action-1-us.tcl.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title=英文,24 Hour Free Movies
+#EXTINF:-1 group-title="英文",24 Hour Free Movies
 https://d1b5mlajbmvkjv.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-DistroTV/145.m3u8
-#EXTINF:-1 group-title=英文,Redbox Spotlight
+#EXTINF:-1 group-title="英文",Redbox Spotlight
 https://spotlight-redbox.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title=英文,Redbox Comedy
+#EXTINF:-1 group-title="英文",Redbox Comedy
 https://comedy-redbox.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title=英文,Baywatch
+#EXTINF:-1 group-title="英文",Baywatch
 https://d1ku2wsea2oun8.cloudfront.net/playlist.m3u8
-#EXTINF:-1 group-title=英文,Bein Sports Xtra
+#EXTINF:-1 group-title="英文",Bein Sports Xtra
 https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title=英文,MovieSphere
+#EXTINF:-1 group-title="英文",MovieSphere
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title=英文,Newsmax
+#EXTINF:-1 group-title="英文",Newsmax
 http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-#EXTINF:-1 group-title=英文,Dubai One
+#EXTINF:-1 group-title="英文",Dubai One
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
-#EXTINF:-1 group-title=英文,Al Jazeera
+#EXTINF:-1 group-title="英文",Al Jazeera
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1 group-title=英文,Arirang
+#EXTINF:-1 group-title="英文",Arirang
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
-#EXTINF:-1 group-title=英文,Bloomberg Asia
+#EXTINF:-1 group-title="英文",Bloomberg Asia
 https://epg.pw/stream/d2edf469b9079064a283f4b0811cbf6f2597ebbb3d08dcf77036a4b5a791b7cf.m3u8
-#EXTINF:-1 group-title=英文,Bloomberg Originals
+#EXTINF:-1 group-title="英文",Bloomberg Originals
 https://i.mjh.nz/SamsungTVPlus/GBBC900012J9.m3u8
-#EXTINF:-1 group-title=英文,CBN News
+#EXTINF:-1 group-title="英文",CBN News
 https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
-#EXTINF:-1 group-title=英文,GB News
+#EXTINF:-1 group-title="英文",GB News
 https://i.mjh.nz/SamsungTVPlus/GBBB1600008R3.m3u8
-#EXTINF:-1 group-title=英文,TBS
+#EXTINF:-1 group-title="英文",TBS
 http://143.244.60.30/TBS/index.m3u8
-#EXTINF:-1 group-title=英文,TRT World
+#EXTINF:-1 group-title="英文",TRT World
 https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
 
-#EXTINF:-1 group-title=英文,Taiwan Plus
+#EXTINF:-1 group-title="英文",Taiwan Plus
 https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
-#EXTINF:-1 group-title=英文,ION Plus
+#EXTINF:-1 group-title="英文",ION Plus
 https://i.mjh.nz/SamsungTVPlus/USBD300003LK.m3u8
-#EXTINF:-1 group-title=英文,ION
+#EXTINF:-1 group-title="英文",ION
 https://i.mjh.nz/SamsungTVPlus/USBD300002TU.m3u8
-#EXTINF:-1 group-title=英文,Love Nature
+#EXTINF:-1 group-title="英文",Love Nature
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1 group-title=英文,Fashion TV
+#EXTINF:-1 group-title="英文",Fashion TV
 http://91.247.68.229:8000/play/Fashion/index.m3u8
-#EXTINF:-1 group-title=英文,Fight Network
+#EXTINF:-1 group-title="英文",Fight Network
 https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
-#EXTINF:-1 group-title=英文,Wild Earthv
+#EXTINF:-1 group-title="英文",Wild Earthv
 https://wildearth-plex.amagi.tv/masterR1080p.m3u8
-#EXTINF:-1 group-title=英文,Wild Planetv
+#EXTINF:-1 group-title="英文",Wild Planetv
 https://i.mjh.nz/SamsungTVPlus/GBBB5000002PL.m3u8
-#EXTINF:-1 group-title=英文,Clarity 4K
+#EXTINF:-1 group-title="英文",Clarity 4K
 https://i.mjh.nz/SamsungTVPlus/USBA3800005NI.m3u8
-#EXTINF:-1 group-title=英文,Stadium
+#EXTINF:-1 group-title="英文",Stadium
 https://i.mjh.nz/SamsungTVPlus/USAJ3504705A.m3u8
-#EXTINF:-1 group-title=英文,Trace Sports
+#EXTINF:-1 group-title="英文",Trace Sports
 https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 group-title=英文,Pop
+#EXTINF:-1 group-title="英文",Pop
 http://streamsy.online:2999/coachj88/N93DPKS9pJ/226
-#EXTINF:-1 group-title=英文,Tastemade
+#EXTINF:-1 group-title="英文",Tastemade
 https://i.mjh.nz/SamsungTVPlus/CABD1200002T9.m3u8
-#EXTINF:-1 group-title=英文,MovieSphere
+#EXTINF:-1 group-title="英文",MovieSphere
 https://i.mjh.nz/SamsungTVPlus/USBD17000117B.m3u8
-#EXTINF:-1 group-title=英文,The Lego Channel
+#EXTINF:-1 group-title="英文",The Lego Channel
 https://i.mjh.nz/SamsungTVPlus/GBBC4300005AL.m3u8
-#EXTINF:-1 group-title=英文,NextUp Live Comedy
+#EXTINF:-1 group-title="英文",NextUp Live Comedy
 https://i.mjh.nz/SamsungTVPlus/GBBD1100012JB.m3u8
