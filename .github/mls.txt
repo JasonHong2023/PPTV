@@ -1,1 +1,112 @@
+#EXTM3U
+"#EXTINF:-1 group-title=""台灣"",台視新聞
+https://ythls.armelin.one/channel/UC8ROUUjHzEQm-ndb69CX8Ww.m3u8"
+"#EXTINF:-1 group-title=""台灣"",台視新聞
+https://youtube.livednow.com/stream/xL0ch83RAK8"
+"#EXTINF:-1 group-title=""台灣"",中視HD
+https://youtube.livednow.com/stream/ADDSmXoPDY8"
+"#EXTINF:-1 group-title=""台灣"",中視
+https://z88.ubtvfans.com/live/rx1/333/4602573c2402ea49024f1cf2298fed4c/index.m3u8"
+"#EXTINF:-1 group-title=""台灣"",華視
+https://z88.ubtvfans.com/live/rx1/32/4a8ce7de4c89b0973b2ec986c911be1d/index.m3u8"
+"#EXTINF:-1 group-title=""台灣"",華視
+https://epg.pw/stream/2ef08642072574008f65939021951a59fe9fc71369c751393f40a1b2234e18c9.m3u8"
+"#EXTINF:-1 group-title=""台灣"",公視
+https://z88.ubtvfans.com/live/rx1/86/2f64eb300d6fad1c8adac3bd2cd0f82a/index.m3u8"
+"#EXTINF:-1 group-title=""台灣"",民視臺灣
+https://z88.ubtvfans.com/live/rx1/36/5c8794bb35c77bc62b0f2cf402294053/index.m3u8"
+"#EXTINF:-1 group-title=""台灣"",民視新聞
+https://ythls.armelin.one/channel/UC2VmWn8dAqkzlQqvy02E1PA.m3u8"
+"#EXTINF:-1 group-title=""台灣"",緯來綜合
+https://z88.ubtvfans.com/live/rx1/2726/b780ea0729a7afe23c901290fd88df1c/index.m3u8"
+"#EXTINF:-1 group-title=""台灣"",緯來日本
+https://z88.ubtvfans.com/live/rx3/46/f02a81ef8894bafbc6efb82a89384917/index.m3u8"
+"#EXTINF:-1 group-title=""台灣"",緯來電影
+https://z88.ubtvfans.com/live/rx1/2728/4a67b3bc50b0d12c49c3b29faaacacb2/index.m3u8"
+"#EXTINF:-1 group-title=""台灣"",緯來精采台
+http://61.221.215.25:8800/hls/48/index.m3u8"
+"#EXTINF:-1 group-title=""台灣"",靖天綜合
+https://z88.ubtvfans.com/live/rx1/308/627a8486708e9b56975ce7a3ce565780/index.m3u8"
+"#EXTINF:-1 group-title=""台灣"",靖天日本
+https://z88.ubtvfans.com/live/rx1/108/30128c2cf29a96e7265023b67dacce72/index.m3u8"
+"#EXTINF:-1 group-title=""台灣"",靖天映畫
+https://z88.ubtvfans.com/live/rx1/349/9db2ee2694bb4a6d4135c0c5e0f2762d/index.m3u8"
+"#EXTINF:-1 group-title=""台灣"",靖天電影
+https://z88.ubtvfans.com/live/rx1/110/9f1bd22a531aa9ee1549daf10b3f4f72/index.m3u8"
+"#EXTINF:-1 group-title=""台灣"",靖天資訊
+https://z88.ubtvfans.com/live/rx2/49/cd7e36a6d9c6bcf592b70b87b37f05be/index.m3u8"
+"#EXTINF:-1 group-title=""台灣"",靖天育樂
+https://z88.ubtvfans.com/live/rx1/1029/5649a5194016999565cf8502a498f0d6/index.m3u8"
+"#EXTINF:-1 group-title=""台灣"",靖洋戲劇
+https://z88.ubtvfans.com/live/rx1/319/34284625aac41ea82c5e051aee972bdb/index.m3u8"
+"#EXTINF:-1 group-title=""台灣"",龍華電影
+https://z88.ubtvfans.com/live/rx1/311/1c999026db4aa94fc7b3eab2a9428b59/index.m3u8"
+"#EXTINF:-1 group-title=""台灣"",龍華日韓
+https://z88.ubtvfans.com/live/rx1/382/897ab118ac4987dd9fb8743cdef65216/index.m3u8"
+"#EXTINF:-1 group-title=""台灣"",龍華偶像
+https://z88.ubtvfans.com/live/rx1/385/6b9f9db94ecf4a1fa93ceda0b35a01da/index.m3u8"
+"#EXTINF:-1 group-title=""台灣"",龍華戲劇
+https://z88.ubtvfans.com/live/rx3/365/a16a27244b8440091f776004d7b3b0fe/index.m3u8"
+"#EXTINF:-1 group-title=""台灣"",龍祥時代
+https://z88.ubtvfans.com/live/rx1/373/bfdc688427aa691d1baeae1fc2d1384f/index.m3u8"
+"#EXTINF:-1 group-title=""台灣"",靖洋卡通
+https://z88.ubtvfans.com/live/rx1/348/f46f118edd38e34cf5f65affac4835dd/index.m3u8"
+"#EXTINF:-1 group-title=""台灣"",東森超視
+https://z88.ubtvfans.com/live/rx1/80/1b79a8a00f6ef2e6e5f73f98084d4d02/index.m3u8"
+"#EXTINF:-1 group-title=""台灣"",東森電影
+https://z88.ubtvfans.com/live/rx1/350/44b9d828c69ab77ac370b97682959610/index.m3u8"
+"#EXTINF:-1 group-title=""台灣"",東森洋片
+https://z88.ubtvfans.com/live/rx1/1128/fade026d9ed28330bb37ac8ca20caeac/index.m3u8"
+"#EXTINF:-1 group-title=""台灣"",東森綜合HD
+https://z88.ubtvfans.com/live/rx1/372/04957ead8303b91527c70a0ed3584d33/index.m3u8"
+"#EXTINF:-1 group-title=""台灣"",東森幼幼HD
+https://z88.ubtvfans.com/live/rx1/371/0fd95cba4794f8bed187c2bcfa9c47d1/index.m3u8"
+"#EXTINF:-1 group-title=""台灣"",東森幼幼
+https://ythls.armelin.one/channel/UCiWRSesvSYmY7YOyz0tv_zQ.m3u8"
+"#EXTINF:-1 group-title=""台灣"",東森新聞
+https://epg.pw/stream/54221319de813f4675b6ccd9ab958d744ed33570caa663c854e9727240d7cbdb.m3u8"
+"#EXTINF:-1 group-title=""台灣"",東森美洲
+https://epg.pw/stream/41fd1dc90b335e2c39f811e013a8bc45d966113d4b326afb8bed450591629da1.m3u8"
+"#EXTINF:-1 group-title=""台灣"",東森美洲衛視
+https://epg.pw/stream/568e26b29122e84e3527b97eca553332274777bdf39873fb234fb6581a3f6a59.m3u8"
+"#EXTINF:-1 group-title=""台灣"",美亞電影
+https://z88.ubtvfans.com/live/rx1/375/52fc7016f1457b85d795a61bbe7921f8/index.m3u8"
+"#EXTINF:-1 group-title=""台灣"",華納電影
+https://z88.ubtvfans.com/live/rx1/83/5c9c7abe023c4753d66d39ce23a7ba5b/index.m3u8"
+"#EXTINF:-1 group-title=""台灣"",鳳凰電影
+https://z88.ubtvfans.com/live/rx1/2814/8eecf538c9b2cfe2100b15b04bfabfc0/index.m3u8"
+"#EXTINF:-1 group-title=""台灣"",三立都會
+https://z88.ubtvfans.com/live/rx1/2435/ea85f251db5b39cc8ca85abb7f2349e0/index.m3u8"
+"#EXTINF:-1 group-title=""台灣"",三立綜合
+https://z88.ubtvfans.com/live/rx1/315/8960776817856d56ff0c2c66a3b54cd3/index.m3u8"
+"#EXTINF:-1 group-title=""台灣"",三立國際
+https://z88.ubtvfans.com/live/rx3/2285/6a8add031ee3407648e3eb8731932206/index.m3u8"
+"#EXTINF:-1 group-title=""台灣"",TVBS新聞
+https://z88.ubtvfans.com/live/rx5/2736/be2d52910873cb20d510f4f1ef0804ba/index.m3u8"
+"#EXTINF:-1 group-title=""台灣"",TVBS News
+https://ythls.armelin.one/channel/UC5nwNW4KdC0SzrhF9BXEYOQ.m3u8"
+"#EXTINF:-1 group-title=""台灣"",TVBS歡樂HD
+https://z88.ubtvfans.com/live/rx1/40/ab8e4c8b1b495ed575b69c9ed3fe1f72/index.m3u8"
+"#EXTINF:-1 group-title=""台灣"",衛星劇場
+https://z88.ubtvfans.com/live/rx3/2345/35579bf9a6e28c16c606bda562bd77dd/index.m3u8"
+"#EXTINF:-1 group-title=""台灣"",中天綜合HD
+https://z88.ubtvfans.com/live/rx3/54/b8751095c9d94abc7d87c8593fad2300/index.m3u8"
+"#EXTINF:-1 group-title=""台灣"",中天娛樂HD
+https://z88.ubtvfans.com/live/rx1/324/461220d54ade176ad23396b4c39a3fe4/index.m3u8"
+"#EXTINF:-1 group-title=""台灣"",八大綜合
+https://epg.pw/stream/e7df67a1a8400d4741889391ccc7e8a2b3f623a4f19544ae0863ae2c184bbe2c.m3u8"
+"#EXTINF:-1 group-title=""台灣"",八大第一
+https://z88.ubtvfans.com/live/rx1/318/caf30fed70d5227d71cf045a1d212005/index.m3u8"
+"#EXTINF:-1 group-title=""台灣"",八大戲劇
+https://epg.pw/stream/502ec7a7075f723ec1288fb463708460e8fa0d4f7932812fe508aee001ccc04a.m3u8"
+"#EXTINF:-1 group-title=""台灣"",八大娛樂
+https://z88.ubtvfans.com/live/rx1/105/18d99bf74ef856f47b3fee019df5b5ea/index.m3u8"
+"#EXTINF:-1 group-title=""台灣"",探索動力DMAX
+https://z88.ubtvfans.com/live/rx1/335/d37c0712b079bb3a90d73d96777ce688/index.m3u8"
+"#EXTINF:-1 group-title=""台灣"",動物星球
+https://z88.ubtvfans.com/live/rx1/367/ec2a5cc942ff9cd56dfea2aa478c5f35/index.m3u8"
+"#EXTINF:-1 group-title=""台灣"",懷舊卡通
+http://61.221.215.25:8800/hls/40/index.m3u8"
+"#EXTINF:-1 group-title=""台灣"",ANIMAX_JP
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15"
 
