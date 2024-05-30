@@ -19,6 +19,8 @@ https://z88.ubtvfans.com/live/rx1/86/2f64eb300d6fad1c8adac3bd2cd0f82a/index.m3u8
 https://z88.ubtvfans.com/live/rx1/36/5c8794bb35c77bc62b0f2cf402294053/index.m3u8
 #EXTINF:-1 group-title="台灣",民視新聞
 https://ythls.armelin.one/channel/UC2VmWn8dAqkzlQqvy02E1PA.m3u8
+#EXTINF:-1 group-title="台灣",民視新聞
+http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8 
 #EXTINF:-1 group-title="台灣",緯來綜合
 https://z88.ubtvfans.com/live/rx1/2726/b780ea0729a7afe23c901290fd88df1c/index.m3u8
 #EXTINF:-1 group-title="台灣",緯來日本
