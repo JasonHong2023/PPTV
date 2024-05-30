@@ -9,8 +9,6 @@ https://youtube.livednow.com/stream/xL0ch83RAK8
 https://youtube.livednow.com/stream/ADDSmXoPDY8
 #EXTINF:-1 group-title="台灣",中視
 https://z88.ubtvfans.com/live/rx1/333/4602573c2402ea49024f1cf2298fed4c/index.m3u8
-#EXTINF:-1 group-title="台灣",中視
-https://stream.freetv.fun/850967cb490cf3c98e20a19b56de0e5a029710949cff71a4132bf059dcf656bc.m3u8
 #EXTINF:-1 group-title="台灣",華視
 https://z88.ubtvfans.com/live/rx1/32/4a8ce7de4c89b0973b2ec986c911be1d/index.m3u8
 #EXTINF:-1 group-title="台灣",華視
