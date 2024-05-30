@@ -15,6 +15,8 @@ https://stream.freetv.fun/850967cb490cf3c98e20a19b56de0e5a029710949cff71a4132bf0
 https://z88.ubtvfans.com/live/rx1/32/4a8ce7de4c89b0973b2ec986c911be1d/index.m3u8
 #EXTINF:-1 group-title="台灣",華視
 https://epg.pw/stream/2ef08642072574008f65939021951a59fe9fc71369c751393f40a1b2234e18c9.m3u8
+#EXTINF:-1 group-title="台灣",華視
+https://stream.freetv.fun/2ef08642072574008f65939021951a59fe9fc71369c751393f40a1b2234e18c9.m3u8
 #EXTINF:-1 group-title="台灣",壹電視
 https://z88.ubtvfans.com/live/rx3/494/34a10e399d9b6f1cbfc5de4950430a02/index.m3u8
 #EXTINF:-1 group-title="台灣",壹電視
